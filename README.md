@@ -68,7 +68,6 @@ I've been learning to code for a while now and have created some cool and exciti
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. I'm always open to new challenges and exciting projects!
 
-🎮 Let's create amazing games and build awesome web experiences together! 🌐
 
 
 <!--
