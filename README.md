@@ -59,8 +59,7 @@ I'm learning to code for a good while now and I have created some exciting proje
 <br>
 <br>
 
-⚡  **Portfolio Website:** 
-<br>
+## ⚡  **Portfolio Website:
 <a href="https://mspaprika.github.io/my-folio-3.0/">
    <img src="data/gifs/folio.gif" alt="folio" width="400">
 </a>
