@@ -28,7 +28,7 @@ I'm learning to code for a good while now and I have created some exciting proje
 
 🌱 **I’m currently learning:**  C++ and game development secrets.
 
-🚀 **I'm Currently Working On:**  [my first Platform2D game](#kitty).
+🚀 **I'm Currently Working On:**  my first Platform2D game  [let's see!](https://github.com/mspaprika/Platform-2D-Game-).
 
 🌟 **Highlights:**
 
