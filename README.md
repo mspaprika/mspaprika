@@ -45,8 +45,10 @@ I'm learning to code for a good while now and I have created some exciting proje
 <a href="https://github.com/mspaprika/Platform-2D-Game-">
    <img src="data/images/kitty_image.png" name="kitty" alt="cat_flea" width="400">
 </a>
+
 <br>
-<br>
+<br> 
+
 📫 **Let's Connect:**
 <br>
 <br>
