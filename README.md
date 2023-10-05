@@ -34,14 +34,14 @@ I'm learning to code for a while now and I have created some cool and exciting p
 
 ## 🌌👽🚀 Sky High Spyder 🕷️
 <a href="https://github.com/mspaprika/Sky-High-Spyder">
-   <img src="data/images/spy_image.png" alt="sky_high" width="400">
+   <img src="data/gifs/spyder106.gif" alt="sky_high" width="400">
 </a>
 <br>
 <br>
 
 ## 🐈 Cat & Fleas 🦟
 <a href="https://github.com/mspaprika/Platform-2D-Game-">
-   <img src="data/images/kitty_image.png" name="kitty" alt="cat_flea" width="400">
+   <img src="data/gifs/kitty_jumps.gif" name="kitty" alt="cat_flea" width="400">
 </a>
 
 <br>
