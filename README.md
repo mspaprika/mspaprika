@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Arune
+# Hi there! 👋
 
-I'm learning to code for a good while now and I have created some exciting projects. Welcome to my GitHub profile! 
+I'm learning to code for a while now and I have created some cool and exciting projects. Welcome to my GitHub profile! 
 <br>
 <br>
 🎮 **Game Development:** Coding is great, but coding games is way beyond. Recently I have been learning C++ and PlayBuffer framework and fell in love with game development. You'll find a collection of my game projects I  created so far [here](https://github.com/mspaprika?tab=repositories).
