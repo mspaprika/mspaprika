@@ -56,7 +56,7 @@ I'm learning to code for a good while now and I have created some exciting proje
  <img src="data/icons/twitter.svg" alt="sql" width="50"> 
 </a>
 <a href="https://www.linkedin.com/in/arune-janusauskaite-226912266/">
-   <img src="data/icons/facebook.png" alt="linkedin" width="50"> 
+   <img src="data/icons/facebook.png" alt="linkedin" width="40"> 
 </a>
 
 ⚡  **Portfolio Website:** 
