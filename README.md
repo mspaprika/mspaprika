@@ -43,14 +43,17 @@ I'm learning to code for a good while now and I have created some exciting proje
 
 📫 **Let's Connect:**
 <br>
-<img src="data/icons/linkedin.svg" alt="linkedin" width="30"> (https://www.linkedin.com/in/arune-janusauskaite-226912266/)
-
-<img src="data/icons/sql.svg" alt="sql" width="30"> (https://twitter.com/arunepaprika)
+<a href="https://www.linkedin.com/in/arune-janusauskaite-226912266/">
+   <img src="data/icons/linkedin.svg" alt="linkedin" width="30"> 
+</a>
+<a href="https://twitter.com/arunepaprika">
+ <img src="data/icons/sql.svg" alt="sql" width="30"> 
+</a>
 
 Portfolio Website: 
-
-[<img src="data/gifs/folio.gif" alt="folio" width="400">](https://mspaprika.github.io/my-folio-3.0/)
-
+<a href="https://mspaprika.github.io/my-folio-3.0/">
+   <img src="data/gifs/folio.gif" alt="folio" width="400">
+</a>
 <br>
 <br>
 
