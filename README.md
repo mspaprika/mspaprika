@@ -9,7 +9,7 @@ I'm a passionate game and web developer who loves turning creative ideas into in
 🔧 **Skills:** Some of the tools and technologies I work with include:
 
 <p align="center">
-  <img src="/.data/icons/react2.svg" alt="react icon" width="300">
+  <img src="data/icons/react2.svg" alt="react icon" width="300">
 </p>
 <!-- ![](/.github/images/spyder_in_space.gif) -->
 
@@ -20,10 +20,10 @@ I'm a passionate game and web developer who loves turning creative ideas into in
 🌟 **Highlights:**
 
 [Sky High Spyder](https://github.com/mspaprika/Sky-High-Spyder)
-<img src="/.data/images/spy_image.png" alt="sky_high" width="300">
+<img src="data/images/spy_image.png" alt="sky_high" width="300">
 
 [Cat & Fleas](https://github.com/mspaprika/Platform-2D-Game-)
-<img src="/.data/images/kitty_image.png" alt="cat_flea" width="300">
+<img src="data/images/kitty_image.png" alt="cat_flea" width="300">
 
 📫 **Let's Connect:**
 - LinkedIn: [Your LinkedIn Profile URL]
