@@ -44,13 +44,14 @@ I'm learning to code for a good while now and I have created some exciting proje
 📫 **Let's Connect:**
 <br>
 <a href="https://www.linkedin.com/in/arune-janusauskaite-226912266/">
-   <img src="data/icons/linkedin.svg" alt="linkedin" width="30"> 
+   <img src="data/icons/linkedin.svg" alt="linkedin" width="50"> 
 </a>
 <a href="https://twitter.com/arunepaprika">
- <img src="data/icons/sql.svg" alt="sql" width="30"> 
+ <img src="data/icons/twitter.svg" alt="sql" width="50"> 
 </a>
 
 Portfolio Website: 
+<br>
 <a href="https://mspaprika.github.io/my-folio-3.0/">
    <img src="data/gifs/folio.gif" alt="folio" width="400">
 </a>
