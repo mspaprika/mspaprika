@@ -32,7 +32,7 @@ I'm learning to code for a good while now and I have created some exciting proje
 
 🌟 **Highlights:**
 
-# Sky High Spyder
+## Sky High Spyder
 <br>
 <a href="https://github.com/mspaprika/Sky-High-Spyder">
    <img src="data/images/spy_image.png" alt="sky_high" width="400">
@@ -40,7 +40,7 @@ I'm learning to code for a good while now and I have created some exciting proje
 <br>
 <br>
 
-# Cat & Fleas
+## Cat & Fleas
 <br>
 <a href="https://github.com/mspaprika/Platform-2D-Game-">
    <img src="data/images/kitty_image.png" name="kitty" alt="cat_flea" width="400">
