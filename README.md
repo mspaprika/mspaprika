@@ -1,12 +1,12 @@
 # Hi there! 👋
 
-I'm learning to code for a while now and I have created some cool and exciting projects. Welcome to my GitHub profile! 
+I've been learning to code for a while now and have created some cool and exciting projects. Welcome to my GitHub profile! 
 <br>
 <br>
-🎮 **Game Development:** Coding is great, but coding games is way beyond. Recently I have been learning C++ and PlayBuffer framework and fell in love with game development. You'll find a collection of my game projects I  created so far [here](https://github.com/mspaprika?tab=repositories).
+🎮 **Game Development:** Coding is great, but coding games is way beyond. Recently I have been learning C++ with PlayBuffer framework and fell in love with game development. You'll find a collection of my game projects I  created so far [here](https://github.com/mspaprika?tab=repositories).
 <br>
 <br>
-🌐 **Web Development:** I'm also the graduate of Web Development bootcamp, where I learned HTML, CSS, JavaScript, React, database management with MongoDB and how to build servers with Node.js and Express. You can explore some of my web projects [here](https://github.com/mspaprika?tab=repositories).
+🌐 **Web Development:** I'm also proud graduate of Web Development bootcamp, where I learned HTML, CSS, JavaScript, React, also backend management with MongoDB, Node.js and Express. You can explore some of my web projects [here](https://github.com/mspaprika?tab=repositories).
 <br>
 <br>
 🔧 **Skills:** Some of the tools and technologies I work with include:
