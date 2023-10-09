@@ -41,7 +41,7 @@ I've been learning to code for a while now and have created some cool and exciti
 
 ## 🐈 Cat & Fleas 🦟
 <a href="https://github.com/mspaprika/Platform-2D-Game-">
-   <img src="data/gifs/kitty_jumps.gif" name="kitty" alt="cat_flea" width="400">
+   <img src="data/gifs/jump_fleas_short.gif" name="kitty" alt="cat_flea" width="400">
 </a>
 
 <br>
