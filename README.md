@@ -3,7 +3,7 @@
 I've been learning to code for a while now and have created some cool and exciting projects. Welcome to my GitHub profile!
 <br>
 <br>
-🎮 **Game Development:** Coding is great, but coding games is way beyond. Recently I have been learning C++ with PlayBuffer framework and fell in love with game development. You'll find a collection of my game projects I created so far [here](https://github.com/mspaprika?tab=repositories).
+🎮 **Game Development:** Coding is great, but coding games is way beyond. Recently I have been learning proffesional game development with Unreal Engine, and you'll find a collection of my game projects I created so far [here](https://github.com/mspaprika?tab=repositories).
 <br>
 <br>
 🌐 **Web Development:** I'm also proud graduate of Web Development bootcamp, where I learned HTML, CSS, JavaScript, React, also backend management with MongoDB, Node.js and Express. You can explore some of my web projects [here](https://github.com/mspaprika?tab=repositories).
@@ -14,14 +14,21 @@ I've been learning to code for a while now and have created some cool and exciti
 <br>
 
 <p align="center">
-   <img src="data/icons/c.svg" alt="cpp" width="50">
+   <img src="data/icons/cpp.png" alt="cpp" width="50">
+   <img src="data/icons/ue.png" alt="unreal" width="50">
+   <img src="data/icons/unity.png" alt="unity" width="50">
+   <img src="data/icons/tc.png" alt="team_city" width="50">
+   <img src="data/icons/p4.png" alt="perforce" width="50">
+   <img src="data/icons/ado.png" alt="azure" width="50">
+   <img src="data/icons/blender.png" alt="blender" width="50">
    <img src="data/icons/csharp.svg" alt="csharp" width="50">
-  <img src="data/icons/react2.svg" alt="react" width="50">
+   <img src="data/icons/c.svg" alt="cpp" width="50">
+   <img src="data/icons/python.svg" alt="python" width="50">
+   <img src="data/icons/react2.svg" alt="react" width="50">
    <img src="data/icons/html.svg" alt="html" width="50">
    <img src="data/icons/css.svg" alt="css" width="50">
-   <img src="data/icons/js2.svg" alt="javaScript" width="50">
+   <img src="data/icons/js2.svg" alt="java_script" width="50">
    <img src="data/icons/sass.svg" alt="sass" width="50">
-   <img src="data/icons/python.svg" alt="python" width="50">
    <img src="data/icons/node2.svg" alt="node" width="50">
    <img src="data/icons/mongo2.svg" alt="mongo" width="50">
    <img src="data/icons/sql.svg" alt="sql" width="50">
@@ -29,9 +36,25 @@ I've been learning to code for a while now and have created some cool and exciti
 
 🌱 **I’m currently learning:** C++ and game development secrets.
 
-🚀 **I'm Currently Working On:** my first Platform2D game [let's see!](https://github.com/mspaprika/Platform-2D-Game-).
+🚀 **I'm Currently Working On:** Cat Cafe Horror in Unreal 5 [let's see!](https://github.com/mspaprika/CatCafe).
 
 🌟 **Highlights:**
+
+## 🍄‍🟫🍄🐈 Cat Cafe 🐈🍄🍄‍🟫
+
+<a href="https://github.com/mspaprika/CatCafe">
+   <img src="data/gifs/catshroom.gif" alt="cat_cafe" width="400">
+</a>
+<br>
+<br>
+
+## 🪐🌍 Brightside 🪐👽
+
+<a href="https://github.com/mspaprika/Brightside">
+   <img src="data/gifs/brightsidePlay.gif" alt="brightside" width="400">
+</a>
+<br>
+<br>
 
 ## 🌌👽🚀 Sky High Spyder 🕷️
 
@@ -53,6 +76,9 @@ I've been learning to code for a while now and have created some cool and exciti
 📫 **Let's Connect:**
 <br>
 <br>
+<a href="https://discordapp.com/users/1165349291125113022">
+<img src="data/icons/discord.svg" alt="sql" width="50">
+</a>
 <a href="https://www.linkedin.com/in/arune-janusauskaite-226912266/">
 <img src="data/icons/linkedin.svg" alt="linkedin" width="50">
 </a>
@@ -65,7 +91,7 @@ I've been learning to code for a while now and have created some cool and exciti
 ## ⚡ Portfolio Website:
 
 <a href="https://mspaprika.github.io/my-folio-3.0/">
-   <img src="data/gifs/folio.gif" alt="folio" width="400">
+   <img src="data/gifs/myFolio.gif" alt="folio" width="400">
 </a>
 <br>
 <br>
